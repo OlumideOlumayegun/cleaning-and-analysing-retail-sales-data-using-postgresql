@@ -1,0 +1,7 @@
+sqlalchemy
+psycopg[binary]
+pandas
+python-dotenv
+asyncpg
+notebook
+ipykernel
