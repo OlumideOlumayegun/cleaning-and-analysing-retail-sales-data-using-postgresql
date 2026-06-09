@@ -1,5 +1,7 @@
 # Cleaning and Analysing Retail Sales Data Using PostgreSQL
 
+![banner image](/images/banner_image.png)
+
 ## Project Overview
 
 This project focuses on cleaning and analysing retail sales data using PostgreSQL. The dataset represents transactional records from a Super Store business and includes information about customer orders, products, sales performance, discounts, profits, and returns.
